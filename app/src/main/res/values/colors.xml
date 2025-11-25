@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBGColor">#0B1220</color>
+    <color name="textColor">#F9FAFB</color>
+    <color name="textHintColor">#9CA3AF</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="main_bg">#1C2533</color>
+    <color name="card_bg">#253040</color>
+    <color name="text_main">#FFFFFF</color>
+    <color name="text_sub">#C1CBD8</color>
+    <color name="accent">#16E0F8</color>
+</resources>
