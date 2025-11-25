@@ -7,8 +7,7 @@ A modern Android weather application built with **Kotlin**, using **WeatherAPI.c
 ## 📸 Screenshots
 --------------
 
-<div style="display: flex; gap: 10px;"> <img src="screetshots/image1.jpeg" width="300" /> </div>
-
+<img src="./screenshots/image1.jpeg" width="300" />
 
 
 ## ✨ Features
